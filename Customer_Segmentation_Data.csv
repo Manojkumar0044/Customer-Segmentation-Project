@@ -1,0 +1,301 @@
+Customer_ID,Age,Gender,Annual_Income,Spending_Score,Purchase_Frequency,Average_Order_Value,Preferred_Category,Region,Channel,Estimated_Annual_Spend,Cluster,Segment
+CUST001,35,Female,52136.0,77.3,13.0,84.25,Fashion,South,Online,1095.25,2,Regular Customers
+CUST002,47,Male,112575.0,70.7,4.0,293.27,Fashion,South,Store,1173.08,0,Premium Occasional
+CUST003,20,Male,44425.0,52.0,9.0,57.65,Beauty,North,Online,518.85,3,Budget Customers
+CUST004,27,Male,41107.0,41.2,5.0,83.93,Fashion,North,Online,419.65,3,Budget Customers
+CUST005,49,Male,72838.0,78.5,18.0,344.86,Beauty,East,Online,6207.48,1,High-Value Customers
+CUST006,27,Female,92389.0,77.2,18.0,262.66,Home & Kitchen,South,Store,4727.88,1,High-Value Customers
+CUST007,52,Male,66575.0,80.8,20.0,292.64,Fashion,West,Online,5852.8,1,High-Value Customers
+CUST008,41,Female,96160.0,70.5,7.0,275.35,Sports,West,Mobile App,1927.45,0,Premium Occasional
+CUST009,24,Male,34079.0,41.0,8.0,84.62,Beauty,South,Mobile App,676.96,3,Budget Customers
+CUST010,31,Male,36476.0,43.8,9.0,99.64,Sports,South,Mobile App,896.76,3,Budget Customers
+CUST011,42,Female,86277.0,84.6,18.0,284.36,Fashion,South,Online,5118.48,1,High-Value Customers
+CUST012,50,Male,122372.0,69.9,7.0,341.42,Home & Kitchen,North,Store,2389.94,0,Premium Occasional
+CUST013,53,Female,102794.0,53.7,5.0,330.65,Electronics,North,Store,1653.25,0,Premium Occasional
+CUST014,34,Female,84348.0,83.9,14.0,216.66,Sports,West,Mobile App,3033.24,1,High-Value Customers
+CUST015,32,Male,87439.0,84.5,22.0,318.59,Home & Kitchen,North,Store,7008.98,1,High-Value Customers
+CUST016,36,Female,93873.0,75.4,20.0,348.97,Fashion,South,Mobile App,6979.4,1,High-Value Customers
+CUST017,36,Female,58113.0,58.9,9.0,145.74,Beauty,South,Store,1311.66,2,Regular Customers
+CUST018,38,Male,65851.0,59.7,16.0,120.75,Electronics,South,Online,1932.0,2,Regular Customers
+CUST019,28,Female,59354.0,61.1,16.0,173.51,Electronics,West,Mobile App,2776.16,2,Regular Customers
+CUST020,30,Female,46118.0,74.5,14.0,130.92,Electronics,East,Online,1832.88,2,Regular Customers
+CUST021,30,Female,46665.0,22.2,6.0,85.09,Sports,West,Online,510.54,3,Budget Customers
+CUST022,38,Male,77189.0,80.9,18.0,303.15,Home & Kitchen,East,Online,5456.7,1,High-Value Customers
+CUST023,37,Female,51264.0,72.0,11.0,180.38,Home & Kitchen,West,Online,1984.18,2,Regular Customers
+CUST024,35,Male,63808.0,70.3,9.0,165.58,Electronics,South,Store,1490.22,2,Regular Customers
+CUST025,25,Male,39647.0,55.6,13.0,190.07,Home & Kitchen,West,Mobile App,2470.91,2,Regular Customers
+CUST026,31,Male,26076.0,34.6,8.0,84.41,Fashion,East,Online,675.28,3,Budget Customers
+CUST027,40,Female,78721.0,77.9,15.0,277.18,Electronics,North,Online,4157.7,1,High-Value Customers
+CUST028,42,Male,53228.0,50.9,11.0,113.94,Fashion,South,Store,1253.34,2,Regular Customers
+CUST029,25,Male,39498.0,34.1,7.0,96.06,Electronics,South,Store,672.42,3,Budget Customers
+CUST030,43,Male,71818.0,92.9,23.0,268.79,Fashion,East,Mobile App,6182.17,1,High-Value Customers
+CUST031,55,Male,45837.0,34.0,5.0,56.08,Fashion,North,Online,280.4,3,Budget Customers
+CUST032,39,Female,82241.0,73.3,23.0,319.67,Home & Kitchen,North,Store,7352.41,1,High-Value Customers
+CUST033,48,Female,96467.0,73.7,17.0,240.6,Home & Kitchen,South,Mobile App,4090.2,1,High-Value Customers
+CUST034,34,Male,84021.0,67.6,5.0,285.64,Fashion,North,Mobile App,1428.2,0,Premium Occasional
+CUST035,46,Female,92536.0,64.7,6.0,298.05,Sports,West,Online,1788.3,0,Premium Occasional
+CUST036,38,Female,112514.0,52.2,6.0,347.57,Fashion,West,Online,2085.42,0,Premium Occasional
+CUST037,28,Male,41756.0,43.4,11.0,152.79,Home & Kitchen,North,Store,1680.69,3,Budget Customers
+CUST038,31,Male,82178.0,82.4,15.0,262.7,Sports,South,Mobile App,3940.5,1,High-Value Customers
+CUST039,37,Male,30092.0,39.2,10.0,40.51,Sports,West,Mobile App,405.1,3,Budget Customers
+CUST040,28,Female,61340.0,52.6,11.0,140.33,Beauty,North,Mobile App,1543.63,2,Regular Customers
+CUST041,34,Male,84809.0,85.2,17.0,293.04,Sports,South,Mobile App,4981.68,1,High-Value Customers
+CUST042,51,Female,39657.0,48.9,6.0,134.45,Home & Kitchen,North,Mobile App,806.7,3,Budget Customers
+CUST043,43,Male,63466.0,83.9,20.0,213.46,Beauty,East,Store,4269.2,1,High-Value Customers
+CUST044,55,Male,107728.0,64.5,5.0,267.51,Beauty,North,Store,1337.55,0,Premium Occasional
+CUST045,38,Female,61003.0,67.3,10.0,136.9,Electronics,North,Store,1369.0,2,Regular Customers
+CUST046,23,Male,44087.0,45.8,8.0,118.78,Fashion,North,Mobile App,950.24,3,Budget Customers
+CUST047,20,Male,71464.0,63.9,11.0,153.4,Home & Kitchen,North,Mobile App,1687.4,2,Regular Customers
+CUST048,25,Female,58985.0,64.5,12.0,151.72,Electronics,East,Store,1820.64,2,Regular Customers
+CUST049,47,Female,53399.0,49.1,11.0,146.67,Fashion,North,Online,1613.37,2,Regular Customers
+CUST050,45,Male,77855.0,68.8,20.0,283.3,Fashion,West,Store,5666.0,1,High-Value Customers
+CUST051,43,Female,82453.0,59.5,5.0,175.16,Fashion,East,Store,875.8,0,Premium Occasional
+CUST052,30,Male,36118.0,26.1,12.0,86.07,Beauty,North,Mobile App,1032.84,3,Budget Customers
+CUST053,41,Female,96797.0,61.7,5.0,274.36,Fashion,South,Online,1371.8,0,Premium Occasional
+CUST054,46,Female,123691.0,41.3,5.0,291.43,Sports,South,Online,1457.15,0,Premium Occasional
+CUST055,22,Male,50266.0,42.5,10.0,97.99,Electronics,West,Online,979.9,3,Budget Customers
+CUST056,36,Female,86668.0,69.1,6.0,291.26,Beauty,West,Online,1747.56,0,Premium Occasional
+CUST057,30,Male,97391.0,86.7,17.0,294.68,Sports,West,Online,5009.56,1,High-Value Customers
+CUST058,29,Female,81548.0,70.7,13.0,307.27,Fashion,East,Online,3994.51,1,High-Value Customers
+CUST059,39,Female,88839.0,77.6,19.0,278.31,Beauty,South,Online,5287.89,1,High-Value Customers
+CUST060,43,Male,60770.0,42.6,8.0,167.3,Beauty,West,Store,1338.4,2,Regular Customers
+CUST061,30,Female,50995.0,59.8,9.0,157.25,Beauty,North,Online,1415.25,2,Regular Customers
+CUST062,21,Male,60304.0,66.8,15.0,175.43,Sports,South,Online,2631.45,2,Regular Customers
+CUST063,41,Male,105391.0,67.2,5.0,319.34,Fashion,South,Online,1596.7,0,Premium Occasional
+CUST064,28,Female,49217.0,67.5,9.0,223.97,Sports,West,Online,2015.73,2,Regular Customers
+CUST065,30,Male,59098.0,81.0,11.0,179.48,Electronics,East,Store,1974.28,2,Regular Customers
+CUST066,29,Female,52357.0,74.3,13.0,128.13,Beauty,South,Store,1665.69,2,Regular Customers
+CUST067,32,Female,87030.0,81.4,20.0,288.0,Beauty,West,Store,5760.0,1,High-Value Customers
+CUST068,35,Male,117509.0,66.6,6.0,226.95,Sports,West,Online,1361.7,0,Premium Occasional
+CUST069,41,Female,92492.0,84.2,14.0,231.35,Sports,West,Store,3238.9,1,High-Value Customers
+CUST070,54,Male,105425.0,62.3,8.0,284.2,Home & Kitchen,North,Online,2273.6,0,Premium Occasional
+CUST071,32,Female,34649.0,45.0,5.0,81.64,Beauty,South,Store,408.2,3,Budget Customers
+CUST072,34,Female,93205.0,89.1,18.0,327.95,Beauty,West,Online,5903.1,1,High-Value Customers
+CUST073,34,Male,106912.0,100.0,17.0,259.95,Beauty,North,Online,4419.15,1,High-Value Customers
+CUST074,57,Male,84833.0,52.8,4.0,271.61,Electronics,West,Online,1086.44,0,Premium Occasional
+CUST075,43,Female,31012.0,42.9,7.0,84.11,Electronics,West,Online,588.77,3,Budget Customers
+CUST076,36,Male,39165.0,38.9,8.0,129.2,Electronics,North,Online,1033.6,3,Budget Customers
+CUST077,25,Female,46323.0,46.4,6.0,70.02,Electronics,North,Store,420.12,3,Budget Customers
+CUST078,41,Female,108570.0,96.4,16.0,262.55,Sports,West,Mobile App,4200.8,1,High-Value Customers
+CUST079,40,Female,76092.0,56.4,9.0,103.62,Home & Kitchen,North,Online,932.58,2,Regular Customers
+CUST080,32,Male,83789.0,83.8,18.0,333.48,Home & Kitchen,West,Online,6002.64,1,High-Value Customers
+CUST081,51,Female,132701.0,67.8,5.0,339.53,Sports,East,Mobile App,1697.65,0,Premium Occasional
+CUST082,39,Male,45467.0,44.4,10.0,96.68,Sports,West,Online,966.8,3,Budget Customers
+CUST083,33,Female,59320.0,68.9,9.0,156.06,Home & Kitchen,North,Online,1404.54,2,Regular Customers
+CUST084,35,Female,92293.0,82.4,14.0,313.58,Home & Kitchen,West,Online,4390.12,1,High-Value Customers
+CUST085,36,Male,72197.0,57.1,12.0,163.24,Sports,East,Online,1958.88,2,Regular Customers
+CUST086,36,Male,67663.0,48.8,11.0,124.0,Home & Kitchen,North,Mobile App,1364.0,2,Regular Customers
+CUST087,26,Male,40640.0,47.5,7.0,75.01,Sports,South,Store,525.07,3,Budget Customers
+CUST088,46,Male,41080.0,31.0,5.0,97.75,Home & Kitchen,East,Online,488.75,3,Budget Customers
+CUST089,51,Female,103512.0,80.5,4.0,233.72,Fashion,West,Online,934.88,0,Premium Occasional
+CUST090,29,Female,46736.0,71.0,11.0,178.52,Electronics,West,Mobile App,1963.72,2,Regular Customers
+CUST091,41,Female,95373.0,87.1,22.0,288.84,Fashion,North,Online,6354.48,1,High-Value Customers
+CUST092,36,Male,33265.0,49.4,7.0,59.25,Home & Kitchen,South,Mobile App,414.75,3,Budget Customers
+CUST093,27,Female,24773.0,31.4,2.0,56.49,Sports,West,Online,112.98,3,Budget Customers
+CUST094,37,Female,31231.0,34.6,7.0,64.15,Beauty,East,Online,449.05,3,Budget Customers
+CUST095,32,Female,23708.0,33.0,6.0,66.97,Home & Kitchen,West,Online,401.82,3,Budget Customers
+CUST096,32,Female,70594.0,66.3,11.0,125.59,Sports,East,Mobile App,1381.49,2,Regular Customers
+CUST097,43,Female,53183.0,69.9,11.0,207.26,Beauty,North,Online,2279.86,2,Regular Customers
+CUST098,29,Female,52137.0,53.6,10.0,157.72,Fashion,North,Mobile App,1577.2,2,Regular Customers
+CUST099,37,Male,115707.0,95.8,19.0,281.71,Home & Kitchen,North,Online,5352.49,1,High-Value Customers
+CUST100,38,Female,86911.0,68.7,19.0,309.12,Fashion,South,Online,5873.28,1,High-Value Customers
+CUST101,39,Female,102565.0,95.5,17.0,328.54,Fashion,South,Store,5585.18,1,High-Value Customers
+CUST102,30,Female,48336.0,46.0,6.0,92.12,Sports,North,Online,552.72,3,Budget Customers
+CUST103,34,Male,68555.0,62.9,10.0,168.15,Home & Kitchen,North,Online,1681.5,2,Regular Customers
+CUST104,18,Female,46348.0,68.4,10.0,155.4,Fashion,North,Online,1554.0,2,Regular Customers
+CUST105,46,Female,85755.0,72.0,5.0,232.17,Beauty,North,Online,1160.85,0,Premium Occasional
+CUST106,35,Female,86140.0,98.6,19.0,299.35,Sports,North,Online,5687.65,1,High-Value Customers
+CUST107,34,Male,57665.0,64.5,11.0,166.98,Home & Kitchen,North,Online,1836.78,2,Regular Customers
+CUST108,30,Male,44414.0,37.8,9.0,32.87,Home & Kitchen,North,Online,295.83,3,Budget Customers
+CUST109,45,Female,77521.0,86.9,15.0,251.93,Electronics,East,Mobile App,3778.95,1,High-Value Customers
+CUST110,51,Female,91805.0,84.9,25.0,277.41,Home & Kitchen,North,Mobile App,6935.25,1,High-Value Customers
+CUST111,43,Male,68683.0,63.7,8.0,194.0,Home & Kitchen,West,Online,1552.0,2,Regular Customers
+CUST112,29,Female,89230.0,84.6,19.0,298.99,Beauty,West,Online,5680.81,1,High-Value Customers
+CUST113,55,Female,86586.0,68.0,7.0,295.12,Electronics,South,Online,2065.84,0,Premium Occasional
+CUST114,57,Male,88556.0,47.6,9.0,267.65,Fashion,North,Online,2408.85,0,Premium Occasional
+CUST115,44,Male,45069.0,29.5,12.0,102.67,Fashion,North,Online,1232.04,3,Budget Customers
+CUST116,43,Female,84156.0,45.5,8.0,431.99,Beauty,West,Store,3455.92,0,Premium Occasional
+CUST117,52,Male,109218.0,63.0,6.0,272.3,Fashion,South,Online,1633.8,0,Premium Occasional
+CUST118,36,Female,92159.0,93.1,21.0,209.33,Fashion,South,Online,4395.93,1,High-Value Customers
+CUST119,50,Female,90475.0,63.1,3.0,279.93,Fashion,West,Store,839.79,0,Premium Occasional
+CUST120,37,Female,60015.0,70.3,11.0,132.12,Home & Kitchen,West,Mobile App,1453.32,2,Regular Customers
+CUST121,40,Female,95056.0,48.0,9.0,247.81,Fashion,West,Online,2230.29,0,Premium Occasional
+CUST122,40,Female,94898.0,64.8,4.0,417.26,Electronics,West,Mobile App,1669.04,0,Premium Occasional
+CUST123,33,Male,56832.0,58.4,11.0,173.92,Fashion,East,Store,1913.12,2,Regular Customers
+CUST124,53,Female,80356.0,95.1,23.0,255.09,Sports,North,Online,5867.07,1,High-Value Customers
+CUST125,41,Male,109541.0,79.0,17.0,253.82,Fashion,North,Store,4314.94,1,High-Value Customers
+CUST126,26,Female,60104.0,44.0,12.0,170.01,Fashion,South,Store,2040.12,2,Regular Customers
+CUST127,59,Male,111285.0,54.9,6.0,337.92,Beauty,North,Store,2027.52,0,Premium Occasional
+CUST128,46,Female,103332.0,53.0,5.0,371.8,Beauty,West,Online,1859.0,0,Premium Occasional
+CUST129,30,Male,86203.0,91.7,18.0,384.37,Beauty,North,Mobile App,6918.66,1,High-Value Customers
+CUST130,38,Male,64373.0,66.6,9.0,105.06,Sports,East,Online,945.54,2,Regular Customers
+CUST131,26,Female,38624.0,61.5,17.0,144.82,Beauty,North,Mobile App,2461.94,2,Regular Customers
+CUST132,43,Female,90982.0,81.2,21.0,266.94,Beauty,West,Online,5605.74,1,High-Value Customers
+CUST133,36,Female,80931.0,86.3,15.0,281.27,Beauty,North,Mobile App,4219.05,1,High-Value Customers
+CUST134,34,Male,57775.0,65.4,14.0,161.73,Home & Kitchen,South,Online,2264.22,2,Regular Customers
+CUST135,41,Male,102195.0,62.6,7.0,306.48,Home & Kitchen,South,Online,2145.36,0,Premium Occasional
+CUST136,38,Male,47113.0,63.4,15.0,181.56,Electronics,West,Store,2723.4,2,Regular Customers
+CUST137,36,Male,54966.0,52.5,10.0,133.35,Sports,West,Store,1333.5,2,Regular Customers
+CUST138,32,Male,44647.0,23.1,2.0,101.82,Sports,South,Online,203.64,3,Budget Customers
+CUST139,25,Male,41782.0,62.9,13.0,127.7,Fashion,West,Online,1660.1,2,Regular Customers
+CUST140,25,Male,82816.0,63.8,6.0,338.96,Home & Kitchen,South,Mobile App,2033.76,0,Premium Occasional
+CUST141,45,Male,91001.0,57.6,4.0,301.35,Fashion,South,Mobile App,1205.4,0,Premium Occasional
+CUST142,48,Male,51978.0,67.4,9.0,199.78,Beauty,North,Mobile App,1798.02,2,Regular Customers
+CUST143,52,Male,52549.0,64.7,12.0,184.05,Home & Kitchen,North,Store,2208.6,2,Regular Customers
+CUST144,47,Male,76120.0,59.2,10.0,150.54,Electronics,West,Store,1505.4,2,Regular Customers
+CUST145,24,Male,49255.0,68.8,9.0,113.59,Electronics,East,Mobile App,1022.31,2,Regular Customers
+CUST146,41,Male,101953.0,75.9,14.0,347.56,Electronics,East,Mobile App,4865.84,1,High-Value Customers
+CUST147,34,Female,53155.0,29.9,9.0,86.03,Beauty,West,Store,774.27,3,Budget Customers
+CUST148,37,Male,54715.0,50.4,8.0,86.01,Home & Kitchen,West,Online,688.08,3,Budget Customers
+CUST149,36,Female,86678.0,84.5,20.0,318.72,Beauty,West,Online,6374.4,1,High-Value Customers
+CUST150,30,Female,55762.0,72.5,12.0,167.05,Home & Kitchen,North,Store,2004.6,2,Regular Customers
+CUST151,49,Female,95230.0,56.7,7.0,371.91,Home & Kitchen,East,Store,2603.37,0,Premium Occasional
+CUST152,38,Female,96786.0,67.9,20.0,297.15,Beauty,North,Store,5943.0,1,High-Value Customers
+CUST153,36,Female,79794.0,77.4,20.0,355.15,Electronics,South,Mobile App,7103.0,1,High-Value Customers
+CUST154,38,Female,56794.0,58.1,9.0,164.45,Fashion,South,Online,1480.05,2,Regular Customers
+CUST155,51,Male,99408.0,79.3,5.0,321.23,Fashion,East,Online,1606.15,0,Premium Occasional
+CUST156,44,Female,71692.0,92.1,16.0,395.12,Electronics,East,Store,6321.92,1,High-Value Customers
+CUST157,47,Male,46459.0,43.2,8.0,99.01,Electronics,North,Online,792.08,3,Budget Customers
+CUST158,26,Male,42875.0,42.6,7.0,111.6,Electronics,South,Online,781.2,3,Budget Customers
+CUST159,37,Female,88539.0,94.1,20.0,233.91,Beauty,North,Online,4678.2,1,High-Value Customers
+CUST160,45,Male,35395.0,43.7,11.0,112.78,Fashion,South,Online,1240.58,3,Budget Customers
+CUST161,36,Female,42084.0,60.9,11.0,131.02,Beauty,North,Mobile App,1441.22,2,Regular Customers
+CUST162,18,Male,29811.0,12.0,7.0,116.9,Beauty,West,Online,818.3,3,Budget Customers
+CUST163,23,Male,40113.0,41.1,9.0,83.2,Fashion,West,Online,748.8,3,Budget Customers
+CUST164,33,Male,66222.0,50.8,15.0,136.87,Fashion,North,Online,2053.05,2,Regular Customers
+CUST165,21,Female,100609.0,87.9,17.0,283.01,Electronics,South,Online,4811.17,1,High-Value Customers
+CUST166,50,Male,116914.0,49.5,7.0,242.17,Sports,East,Online,1695.19,0,Premium Occasional
+CUST167,29,Female,50708.0,59.8,14.0,114.53,Beauty,North,Store,1603.42,2,Regular Customers
+CUST168,38,Male,80069.0,82.7,15.0,148.54,Sports,West,Store,2228.1,2,Regular Customers
+CUST169,21,Female,77883.0,87.0,24.0,280.94,Fashion,North,Mobile App,6742.56,1,High-Value Customers
+CUST170,25,Female,33478.0,28.6,6.0,67.84,Home & Kitchen,North,Mobile App,407.04,3,Budget Customers
+CUST171,28,Male,27058.0,42.1,7.0,81.75,Home & Kitchen,West,Online,572.25,3,Budget Customers
+CUST172,60,Female,91359.0,70.5,21.0,249.93,Home & Kitchen,West,Online,5248.53,1,High-Value Customers
+CUST173,35,Female,65675.0,62.4,9.0,125.69,Sports,South,Mobile App,1131.21,2,Regular Customers
+CUST174,45,Male,85983.0,78.8,15.0,299.06,Home & Kitchen,North,Mobile App,4485.9,1,High-Value Customers
+CUST175,31,Female,47886.0,34.4,8.0,65.88,Fashion,North,Online,527.04,3,Budget Customers
+CUST176,40,Male,104249.0,100.0,20.0,294.66,Beauty,North,Mobile App,5893.2,1,High-Value Customers
+CUST177,32,Male,47223.0,26.9,9.0,108.71,Fashion,South,Mobile App,978.39,3,Budget Customers
+CUST178,34,Male,49006.0,53.5,13.0,161.4,Electronics,North,Online,2098.2,2,Regular Customers
+CUST179,58,Male,100165.0,74.2,9.0,359.92,Sports,East,Online,3239.28,0,Premium Occasional
+CUST180,34,Male,75852.0,91.5,17.0,289.05,Beauty,North,Mobile App,4913.85,1,High-Value Customers
+CUST181,41,Male,45886.0,59.1,16.0,114.99,Fashion,East,Mobile App,1839.84,2,Regular Customers
+CUST182,33,Male,94208.0,85.9,20.0,329.94,Sports,East,Store,6598.8,1,High-Value Customers
+CUST183,44,Female,90382.0,73.1,6.0,201.37,Electronics,South,Online,1208.22,0,Premium Occasional
+CUST184,52,Male,109980.0,63.9,7.0,288.23,Sports,West,Mobile App,2017.61,0,Premium Occasional
+CUST185,27,Male,67774.0,53.2,13.0,156.02,Fashion,North,Store,2028.26,2,Regular Customers
+CUST186,45,Female,43600.0,22.1,5.0,65.78,Electronics,West,Mobile App,328.9,3,Budget Customers
+CUST187,53,Male,130659.0,61.0,6.0,313.5,Beauty,East,Online,1881.0,0,Premium Occasional
+CUST188,40,Male,44826.0,39.0,7.0,103.02,Fashion,South,Online,721.14,3,Budget Customers
+CUST189,39,Female,70363.0,56.8,13.0,193.37,Beauty,North,Store,2513.81,2,Regular Customers
+CUST190,47,Female,87047.0,75.3,25.0,272.09,Home & Kitchen,West,Store,6802.25,1,High-Value Customers
+CUST191,33,Male,92335.0,76.1,14.0,252.47,Fashion,West,Online,3534.58,1,High-Value Customers
+CUST192,45,Male,83905.0,61.2,3.0,348.0,Home & Kitchen,North,Online,1044.0,0,Premium Occasional
+CUST193,43,Female,93718.0,65.2,9.0,216.24,Fashion,North,Store,1946.16,0,Premium Occasional
+CUST194,31,Male,35767.0,28.6,9.0,85.38,Beauty,West,Online,768.42,3,Budget Customers
+CUST195,29,Female,44377.0,41.8,7.0,153.01,Fashion,West,Mobile App,1071.07,3,Budget Customers
+CUST196,39,Male,53652.0,59.3,15.0,171.91,Fashion,South,Online,2578.65,2,Regular Customers
+CUST197,29,Female,31090.0,33.9,7.0,80.95,Home & Kitchen,East,Online,566.65,3,Budget Customers
+CUST198,40,Female,103521.0,62.2,7.0,321.66,Sports,East,Online,2251.62,0,Premium Occasional
+CUST199,36,Female,106628.0,61.7,6.0,303.57,Electronics,North,Store,1821.42,0,Premium Occasional
+CUST200,18,Female,46860.0,28.1,9.0,92.69,Fashion,East,Online,834.21,3,Budget Customers
+CUST201,39,Female,33306.0,46.1,6.0,90.2,Fashion,South,Store,541.2,3,Budget Customers
+CUST202,39,Male,105652.0,68.7,21.0,330.7,Electronics,South,Online,6944.7,1,High-Value Customers
+CUST203,35,Male,99356.0,92.5,22.0,254.7,Fashion,East,Store,5603.4,1,High-Value Customers
+CUST204,44,Female,86485.0,56.1,6.0,324.01,Electronics,South,Online,1944.06,0,Premium Occasional
+CUST205,35,Male,38045.0,31.5,7.0,83.41,Electronics,West,Store,583.87,3,Budget Customers
+CUST206,35,Female,96731.0,79.6,20.0,264.98,Beauty,West,Online,5299.6,1,High-Value Customers
+CUST207,37,Female,95373.0,69.4,15.0,226.27,Home & Kitchen,West,Mobile App,3394.05,1,High-Value Customers
+CUST208,32,Male,25393.0,30.7,5.0,73.82,Fashion,South,Mobile App,369.1,3,Budget Customers
+CUST209,24,Male,98975.0,73.4,19.0,373.33,Fashion,West,Mobile App,7093.27,1,High-Value Customers
+CUST210,31,Male,103212.0,97.7,14.0,302.35,Electronics,South,Store,4232.9,1,High-Value Customers
+CUST211,37,Male,62209.0,67.8,11.0,154.24,Beauty,South,Mobile App,1696.64,2,Regular Customers
+CUST212,27,Female,40640.0,34.8,9.0,84.07,Fashion,South,Online,756.63,3,Budget Customers
+CUST213,26,Female,47621.0,17.9,13.0,104.01,Fashion,West,Mobile App,1352.13,3,Budget Customers
+CUST214,39,Female,96667.0,82.7,17.0,273.19,Fashion,West,Mobile App,4644.23,1,High-Value Customers
+CUST215,35,Female,17417.0,40.2,7.0,84.66,Beauty,East,Online,592.62,3,Budget Customers
+CUST216,35,Male,78340.0,71.0,16.0,318.81,Sports,North,Mobile App,5100.96,1,High-Value Customers
+CUST217,42,Female,62618.0,64.5,12.0,125.76,Beauty,East,Mobile App,1509.12,2,Regular Customers
+CUST218,34,Male,40460.0,43.6,7.0,69.13,Fashion,South,Online,483.91,3,Budget Customers
+CUST219,24,Female,35844.0,19.9,7.0,85.02,Beauty,North,Online,595.14,3,Budget Customers
+CUST220,39,Female,80887.0,54.4,4.0,263.0,Sports,South,Mobile App,1052.0,0,Premium Occasional
+CUST221,28,Male,23973.0,40.1,5.0,86.08,Home & Kitchen,North,Mobile App,430.4,3,Budget Customers
+CUST222,33,Male,16863.0,36.5,11.0,107.3,Home & Kitchen,North,Store,1180.3,3,Budget Customers
+CUST223,41,Male,96066.0,90.5,26.0,297.66,Home & Kitchen,South,Online,7739.16,1,High-Value Customers
+CUST224,30,Male,53283.0,59.4,9.0,178.63,Home & Kitchen,North,Online,1607.67,2,Regular Customers
+CUST225,32,Male,59397.0,65.4,9.0,125.26,Fashion,West,Online,1127.34,2,Regular Customers
+CUST226,35,Male,93151.0,83.5,21.0,273.82,Sports,North,Store,5750.22,1,High-Value Customers
+CUST227,26,Female,102986.0,76.2,8.0,358.27,Beauty,West,Store,2866.16,0,Premium Occasional
+CUST228,44,Male,52441.0,55.2,13.0,181.12,Fashion,West,Store,2354.56,2,Regular Customers
+CUST229,34,Female,70557.0,56.5,4.0,284.59,Fashion,West,Mobile App,1138.36,0,Premium Occasional
+CUST230,29,Male,42355.0,25.9,9.0,83.64,Home & Kitchen,East,Online,752.76,3,Budget Customers
+CUST231,34,Female,31686.0,28.0,9.0,63.59,Electronics,West,Online,572.31,3,Budget Customers
+CUST232,48,Male,53103.0,56.5,11.0,114.93,Beauty,North,Online,1264.23,2,Regular Customers
+CUST233,29,Male,31040.0,14.5,7.0,128.43,Fashion,West,Store,899.01,3,Budget Customers
+CUST234,41,Female,47373.0,68.0,13.0,166.55,Sports,North,Online,2165.15,2,Regular Customers
+CUST235,42,Male,97102.0,79.2,16.0,284.58,Fashion,North,Online,4553.28,1,High-Value Customers
+CUST236,43,Female,39153.0,35.4,7.0,89.39,Fashion,South,Online,625.73,3,Budget Customers
+CUST237,34,Female,43211.0,56.4,15.0,145.63,Electronics,South,Online,2184.45,2,Regular Customers
+CUST238,39,Female,85498.0,79.5,22.0,305.1,Electronics,West,Store,6712.2,1,High-Value Customers
+CUST239,43,Male,30894.0,28.5,4.0,80.79,Sports,East,Online,323.16,3,Budget Customers
+CUST240,41,Male,79978.0,98.7,13.0,288.31,Home & Kitchen,North,Online,3748.03,1,High-Value Customers
+CUST241,44,Male,125593.0,39.9,9.0,238.8,Beauty,West,Mobile App,2149.2,0,Premium Occasional
+CUST242,43,Male,98561.0,67.9,3.0,333.11,Home & Kitchen,North,Store,999.33,0,Premium Occasional
+CUST243,49,Male,105287.0,55.6,7.0,400.22,Home & Kitchen,East,Online,2801.54,0,Premium Occasional
+CUST244,33,Male,71357.0,61.2,10.0,144.98,Fashion,West,Online,1449.8,2,Regular Customers
+CUST245,29,Male,97254.0,89.1,17.0,258.85,Electronics,South,Store,4400.45,1,High-Value Customers
+CUST246,48,Female,99625.0,55.5,7.0,300.94,Electronics,West,Online,2106.58,0,Premium Occasional
+CUST247,46,Female,52596.0,41.2,14.0,124.46,Fashion,East,Online,1742.44,2,Regular Customers
+CUST248,52,Female,105214.0,52.5,5.0,344.32,Home & Kitchen,South,Store,1721.6,0,Premium Occasional
+CUST249,58,Female,106565.0,53.0,3.0,300.54,Fashion,South,Online,901.62,0,Premium Occasional
+CUST250,53,Male,86214.0,65.6,8.0,288.96,Electronics,North,Mobile App,2311.68,0,Premium Occasional
+CUST251,18,Female,59791.0,61.9,12.0,182.07,Home & Kitchen,North,Mobile App,2184.84,2,Regular Customers
+CUST252,26,Male,41993.0,60.9,10.0,142.55,Beauty,North,Online,1425.5,2,Regular Customers
+CUST253,40,Female,105512.0,51.1,4.0,343.97,Beauty,South,Online,1375.88,0,Premium Occasional
+CUST254,25,Male,68747.0,49.2,10.0,158.86,Sports,West,Mobile App,1588.6,2,Regular Customers
+CUST255,33,Female,107068.0,95.9,21.0,283.84,Electronics,West,Store,5960.64,1,High-Value Customers
+CUST256,24,Female,42553.0,23.0,9.0,67.03,Electronics,South,Store,603.27,3,Budget Customers
+CUST257,50,Female,102252.0,67.3,8.0,293.97,Beauty,East,Mobile App,2351.76,0,Premium Occasional
+CUST258,45,Male,43873.0,30.1,6.0,65.2,Sports,West,Store,391.2,3,Budget Customers
+CUST259,34,Female,49721.0,35.0,8.0,65.35,Beauty,South,Online,522.8,3,Budget Customers
+CUST260,35,Female,71786.0,79.1,21.0,305.88,Sports,North,Store,6423.48,1,High-Value Customers
+CUST261,36,Male,40947.0,38.9,6.0,46.24,Sports,North,Online,277.44,3,Budget Customers
+CUST262,54,Male,115402.0,58.1,8.0,340.85,Home & Kitchen,East,Mobile App,2726.8,0,Premium Occasional
+CUST263,35,Female,91721.0,67.8,19.0,233.68,Fashion,West,Online,4439.92,1,High-Value Customers
+CUST264,24,Male,53178.0,42.6,8.0,182.07,Fashion,West,Store,1456.56,3,Budget Customers
+CUST265,54,Male,126727.0,58.4,3.0,289.33,Fashion,South,Mobile App,867.99,0,Premium Occasional
+CUST266,33,Female,38230.0,28.9,7.0,68.36,Beauty,South,Online,478.52,3,Budget Customers
+CUST267,19,Female,33450.0,34.3,4.0,68.41,Sports,East,Online,273.64,3,Budget Customers
+CUST268,22,Female,34173.0,32.8,10.0,109.13,Fashion,North,Mobile App,1091.3,3,Budget Customers
+CUST269,41,Female,47666.0,65.4,15.0,111.32,Sports,West,Online,1669.8,2,Regular Customers
+CUST270,27,Female,62963.0,61.1,12.0,105.21,Home & Kitchen,South,Online,1262.52,2,Regular Customers
+CUST271,33,Male,112714.0,67.7,6.0,366.22,Home & Kitchen,West,Online,2197.32,0,Premium Occasional
+CUST272,43,Female,104647.0,60.3,6.0,291.52,Fashion,South,Online,1749.12,0,Premium Occasional
+CUST273,59,Male,125722.0,49.1,7.0,284.85,Sports,West,Online,1993.95,0,Premium Occasional
+CUST274,48,Male,93244.0,55.1,4.0,268.41,Fashion,West,Store,1073.64,0,Premium Occasional
+CUST275,30,Male,60155.0,62.5,12.0,147.28,Home & Kitchen,West,Store,1767.36,2,Regular Customers
+CUST276,40,Female,51130.0,58.3,13.0,138.72,Home & Kitchen,South,Online,1803.36,2,Regular Customers
+CUST277,33,Female,43051.0,33.2,10.0,60.91,Fashion,South,Store,609.1,3,Budget Customers
+CUST278,36,Male,34153.0,41.9,6.0,84.18,Home & Kitchen,North,Store,505.08,3,Budget Customers
+CUST279,27,Male,48105.0,24.9,9.0,79.98,Electronics,East,Mobile App,719.82,3,Budget Customers
+CUST280,28,Male,41994.0,42.7,6.0,73.98,Fashion,South,Store,443.88,3,Budget Customers
+CUST281,35,Female,85163.0,66.8,7.0,337.44,Fashion,South,Store,2362.08,0,Premium Occasional
+CUST282,32,Male,55932.0,50.3,11.0,234.56,Beauty,East,Mobile App,2580.16,2,Regular Customers
+CUST283,38,Male,63462.0,76.5,8.0,159.21,Beauty,North,Online,1273.68,2,Regular Customers
+CUST284,31,Male,101710.0,89.3,14.0,282.47,Electronics,North,Mobile App,3954.58,1,High-Value Customers
+CUST285,25,Male,29190.0,33.3,6.0,128.68,Electronics,South,Online,772.08,3,Budget Customers
+CUST286,41,Female,102257.0,98.7,13.0,195.4,Beauty,East,Online,2540.2,1,High-Value Customers
+CUST287,18,Female,58030.0,61.0,13.0,114.58,Electronics,South,Online,1489.54,2,Regular Customers
+CUST288,35,Male,49038.0,63.9,13.0,137.96,Home & Kitchen,South,Online,1793.48,2,Regular Customers
+CUST289,55,Female,47992.0,71.2,13.0,153.42,Beauty,West,Store,1994.46,2,Regular Customers
+CUST290,45,Female,45675.0,30.0,4.0,81.35,Sports,South,Online,325.4,3,Budget Customers
+CUST291,46,Female,84512.0,81.7,18.0,318.18,Electronics,East,Online,5727.24,1,High-Value Customers
+CUST292,22,Male,104401.0,78.1,12.0,307.89,Fashion,South,Online,3694.68,1,High-Value Customers
+CUST293,41,Male,71917.0,71.0,9.0,342.58,Electronics,West,Mobile App,3083.22,0,Premium Occasional
+CUST294,25,Female,51392.0,58.7,12.0,188.67,Beauty,West,Store,2264.04,2,Regular Customers
+CUST295,40,Female,79667.0,93.2,20.0,260.06,Beauty,West,Mobile App,5201.2,1,High-Value Customers
+CUST296,31,Female,73300.0,67.6,11.0,173.24,Electronics,South,Store,1905.64,2,Regular Customers
+CUST297,24,Female,33435.0,26.3,5.0,78.33,Home & Kitchen,North,Online,391.65,3,Budget Customers
+CUST298,28,Female,79107.0,94.2,20.0,326.38,Fashion,East,Online,6527.6,1,High-Value Customers
+CUST299,32,Male,41873.0,25.6,5.0,95.75,Home & Kitchen,South,Store,478.75,3,Budget Customers
+CUST300,31,Male,96628.0,87.0,16.0,306.19,Beauty,South,Online,4899.04,1,High-Value Customers
